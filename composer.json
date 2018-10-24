@@ -1,5 +1,5 @@
 {
-    "name": "imliam/laravel-env-set-command",
+    "name": "ddavaham/laravel-env-set-command",
     "description": "Set a .env file variable from the command line",
     "keywords": [
         "imliam",
@@ -9,7 +9,7 @@
         "env",
         "artisan"
     ],
-    "homepage": "https://github.com/imliam/laravel-env-set-command",
+    "homepage": "https://github.com/ddavaham/laravel-env-set-command",
     "license": "MIT",
     "authors": [
         {
@@ -17,6 +17,12 @@
             "email": "liam@liamhammett.com",
             "homepage": "https://liamhammett.com",
             "role": "Developer"
+        },
+        {
+            "name": "David Douglas",
+            "email": "ddouglas@douglaswebdev.net",
+            "homepage": "https://github.com/ddavaham",
+            "role": "Contributor"
         }
     ],
     "require": {
